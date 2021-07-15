@@ -10,7 +10,9 @@
   "author": "licheng",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.1",
-    "mockjs": "^1.1.0"
+    "mockjs": "^1.1.0",
+    "nodemon": "^2.0.12"
   }
 }
